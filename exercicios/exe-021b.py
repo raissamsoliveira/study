@@ -27,4 +27,3 @@ if __name__ == "__main__":
         reproduzir_audio(arquivo_mp3)
     except pygame.error as e:
         print(f"Erro ao reproduzir o áudio: {e}")
-
